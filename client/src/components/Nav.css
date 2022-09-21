@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #D9F3FF;
+}
+
+.units {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
